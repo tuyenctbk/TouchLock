@@ -5,4 +5,5 @@
     <string name="save">Save</string>
     <string name="permission_deny_close_app">Permissions denied. Closing app!</string>
     <string name="select_accent_color">Select accent color:</string>
+    <string name="draw_to_unlock">Draw pattern to unlock</string>
 </resources>
