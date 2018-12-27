@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TouchLock</string>
+    <string name="select_lock_style">Select lock style:</string>
+    <string name="slide_unlock">Slide to unlock</string>
+    <string name="save">Save</string>
+    <string name="permission_deny_close_app">Permissions denied. Closing app!</string>
+    <string name="select_accent_color">Select accent color:</string>
+</resources>
